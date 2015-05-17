@@ -1,7 +1,7 @@
 # CSK.cli
 ## Command Line client to ClearDarkSky.com
 
-This is a command-line client to ClearDarkSky.com. More info to be added soon!
+This is a command-line client to ClearDarkSky.com. Csk will display a full-color Clear Sky Chart on an ansi-capable terminal program.
 
 ### Installation:
 
@@ -21,4 +21,4 @@ Options:
 
 ### Images:
 
-Coming soon!
+[csk.cli](http://i.imgur.com/J8sEQjF.png)
