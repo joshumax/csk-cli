@@ -21,4 +21,4 @@ Options:
 
 ### Images:
 
-[csk.cli](http://i.imgur.com/J8sEQjF.png)
+![csk.cli](http://i.imgur.com/J8sEQjF.png)
