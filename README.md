@@ -1,7 +1,7 @@
 # CSK.cli
-## Command Line UI to ClearDarkSky.org
+## Command Line client to ClearDarkSky.com
 
-This is a command-line client to ClearDarkSky.org. More info to be added soon!
+This is a command-line client to ClearDarkSky.com. More info to be added soon!
 
 ### Installation:
 
@@ -13,7 +13,7 @@ $ csk
 ### Help:
 
 ```
-csk: CLI Interface to ClearDarkSky.org
+csk: CLI Interface to ClearDarkSky.com
 Options:
   --search     - Preforms an interactive chart search
   --help       - Print this help output
