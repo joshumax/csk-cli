@@ -1,0 +1,22 @@
+{
+  "name": "csk-cli",
+  "version": "1.0.0",
+  "description": "A command-line client to ClearDarkSky.org, written in Node.js",
+  "main": "lib/index.js",
+  "bin": {
+    "csk": "./bin/csk"
+  },
+  "author": "Josh Max <joshumax@hotmail.com>",
+  "license": "BSD",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshumax/csk-cli.git"
+  },
+  "homepage": "https://github.com/joshumax/csk-cli",
+  "dependencies": {
+    "cli-box": "^2.1.1",
+    "yesno": "^0.0.1",
+    "couleurs": "^3.0.0"
+  }
+}
