@@ -84,7 +84,7 @@ function generate_csk() {
 }
 
 function print_help(name) {
-  console.log(Path.basename(name) + ": CLI Interface to ClearDarkSky.org");
+  console.log(Path.basename(name) + ": CLI Interface to ClearDarkSky.com");
   console.log("Options:");
   console.log("  --search     - Preforms an interactive chart search");
   console.log("  --help       - Print this help output");
