@@ -4,7 +4,7 @@ var Fs = require("fs")
   , Yn = require("yesno")
   , Rl = require("readline")
   , Csk = require("../lib")
-  , Http = require("http")
+  , Http = require("follow-redirects").http
   , Path = require("path");
 
 var chart_key = "";

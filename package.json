@@ -16,6 +16,7 @@
   "homepage": "https://github.com/joshumax/csk-cli",
   "dependencies": {
     "cli-box": "^2.1.1",
+    "follow-redirects": "^0.0.7",
     "yesno": "^0.0.1",
     "couleurs": "^3.0.0"
   }
